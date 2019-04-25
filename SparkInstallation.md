@@ -16,7 +16,7 @@ Follow below steps if listed prerequisite not in place.
 
 
 ### 2. Installing JDK
--Install JDK 8+
+- Install JDK 8+
  [JDK 8 download](https://www.oracle.com/technetwork/java/javaee/downloads/jdk8-downloads-2133151.html)
 - set system PATH or JAVA_HOME environment variable pointing to a Java installation.
 	- e.g C:\Program Files\Java\jdk1.8.0_181\bin;
