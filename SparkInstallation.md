@@ -1,6 +1,6 @@
 # Installing spark python API(pyspark) on Windows
 
-prerequisite:
+- prerequisite
 	1. python 2.7+ or 3.4+
 	2. JDK 8+
 	
@@ -8,7 +8,7 @@ Follow below steps if listed prerequisite not in place.
 
 ### 1. Installing Python
 	
-	- [Get Python](https://www.python.org/downloads/)
+	- Get Python from https://www.python.org/downloads/
 	- set system PATH
 		e.g 
 		C:\Users\<user_name>\AppData\Local\Programs\Python\Python37\
